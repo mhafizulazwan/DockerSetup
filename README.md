@@ -7,3 +7,4 @@
  3) Network
  4) Display / GUI
  5) Folder mount
+ 6) Input device (joystick)

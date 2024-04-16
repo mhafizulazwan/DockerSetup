@@ -3,7 +3,8 @@
   "dockerFile": "Dockerfile",
   "runArgs": [
     "--privileged",
-    "--network=host"
+    "--network=host",
+    "--device=/dev/input/js0"
   ],
   "containerEnv": {
     "DISPLAY": ":1"
