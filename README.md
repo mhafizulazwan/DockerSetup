@@ -1,5 +1,5 @@
 # DockerSetup
- Template to setup docker images and containers using VS code
+ Template to setup docker images and containers for ROS using VS code and Dev Container
  
  Configured images and containers:
  1) Username from root to user
